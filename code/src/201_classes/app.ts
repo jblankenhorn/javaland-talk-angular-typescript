@@ -7,7 +7,7 @@ class TsController {
     name: string;
 
     constructor() {
-        this.name = "Max";
+        this.name = "Jan";
     }
 
     sayHello() {
